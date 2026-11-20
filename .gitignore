@@ -1,0 +1,8 @@
+*.jks
+*.keystore
+*signing-PRIVATE*
+password.txt
+signing.properties
+local.properties
+.gradle/
+**/build/
