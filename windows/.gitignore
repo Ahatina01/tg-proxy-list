@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+*.pfx
+*.jks
+*.keystore
+password.txt
